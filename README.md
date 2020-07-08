@@ -5,5 +5,5 @@ In this repository, we generate Wikipedia by two different - GPT2 and LSTM. We l
 _Inspired by_: [Train a GPT-2 Text-Generating Model w/ GPU](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce) 
 [text_generation_wikipedia_rnn](https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/text_generation_wikipedia_rnn/text_generation_wikipedia_rnn.ipynb)
 
-![](https://www.vpnmentor.com/wp-content/uploads/2018/02/how-to-unblock-wikipedia-768x403.png.webp)
+![](https://img.etimg.com/thumb/msid-72022974,width-643,imgsize-176644,resizemode-4/wikipedia-has-been-accused-of-not-doing-enough-to-curb-misinformation-but-things-are-about-to-change-.jpg)
 Credits: https://www.vpnmentor.com/blog/unblock-wikipedia-anywhere/
