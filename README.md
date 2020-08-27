@@ -7,3 +7,10 @@ _Inspired by_: [Train a GPT-2 Text-Generating Model w/ GPU](https://colab.resear
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia-logo_%28inverse%29.png/657px-Wikipedia-logo_%28inverse%29.png)
 Credits: https://zh.wikipedia.org/wiki/File:Wikipedia-logo_(inverse).png
+
+# Datasets
+[RNN](https://www.tensorflow.org/tutorials/text/text_classification_rnn)
+[TF hub](https://www.tensorflow.org/hub/tutorials/tf2_text_classification)
+[Text classification with TensorFlow Hub: Movie reviews](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)
+[BERT](https://github.com/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb)
+[BERT HUB](https://colab.research.google.com/github/google-research/bert/blob/master/predicting_movie_reviews_with_bert_on_tf_hub.ipynb)
